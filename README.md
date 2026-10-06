@@ -11,10 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:EC4899,100:F59E0B&height=3" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </p>
 
 ## About Me
+
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated terminal introducing Abdullah Akram" />
+</p>
 
 I'm **Abdullah Akram**, a Flutter developer who enjoys building clean, reliable, offline-first apps. I focus on local data storage, notifications, and well-structured app architecture.
 
@@ -24,10 +28,14 @@ I'm **Abdullah Akram**, a Flutter developer who enjoys building clean, reliable,
 - Reach me: **abdullahakram0714@gmail.com**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:EC4899,100:F59E0B&height=3" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </p>
 
 ## Tech Stack
+
+<p align="center">
+  <img src="./assets/marquee.svg" width="100%" alt="Scrolling list of technologies" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -43,7 +51,7 @@ I'm **Abdullah Akram**, a Flutter developer who enjoys building clean, reliable,
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:EC4899,100:F59E0B&height=3" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </p>
 
 <!-- Spiral animation (needs assets/spiral.svg in this repo) -->
@@ -58,7 +66,7 @@ I'm **Abdullah Akram**, a Flutter developer who enjoys building clean, reliable,
 | [**Pantry Manager**](https://github.com/abdullahakram-py/pantry_manager) | Tracks food expiry dates and sends local reminders | Flutter, SQLite, Notifications |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:EC4899,100:F59E0B&height=3" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </p>
 
 ## GitHub Stats
@@ -73,7 +81,21 @@ I'm **Abdullah Akram**, a Flutter developer who enjoys building clean, reliable,
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:EC4899,100:F59E0B&height=3" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahakram-py/abdullahakram-py/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahakram-py/abdullahakram-py/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/abdullahakram-py/abdullahakram-py/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </p>
 
 ## Let's Connect
